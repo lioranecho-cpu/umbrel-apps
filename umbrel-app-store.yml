@@ -1,0 +1,9 @@
+id: lioranecho-umbrel-apps
+name: Sparkie Labs App Store
+tagline: Lightning Control Center and apps by Sparkie Labs
+icon: https://raw.githubusercontent.com/lioranecho-cpu/umbrel-apps/master/lightning-control-center/umbrel-app.yml
+gallery:
+  - https://i.imgur.com/placeholder.png
+version: "1"
+developer: Sparkie Labs
+website: https://satslist.shop
